@@ -25,3 +25,66 @@ li{
 li a{
     color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
 }
+.transbox1 {
+  position: fixed;
+  top: 100px; /* adjust based on nav height */
+  width: 100px;
+  padding: 20px;
+  right: 0px;
+  background-color: rgba(255, 255, 255, 0.05); /* transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: larger;
+  font-family: Fantasy,Copperplate;
+  text-align: center;
+}
+.transbox2 {
+  position: fixed;
+  top: 250px; /* adjust based on nav height */
+  width: 300px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.05); /* transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+}
+.transbox3 {
+  position: fixed;
+  top: 100px; /* adjust based on nav height */
+  width: 100px;
+  left: 0px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.05); /* transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 23px;
+  font-family: Fantasy,Copperplate;
+  text-align: center;
+}
+.transbox4 {
+  position: fixed;
+  top: 100px; /* adjust based on nav height */
+  width: 100px;
+  padding: 20px;
+  right: 50%;
+  left: 50%;
+  background-color: rgba(255, 255, 255, 0.05); /* transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: larger;
+  font-family: Fantasy,Copperplate;
+  text-align: center;
+}
+.transbox5 {
+  position: fixed;
+  bottom: 0px;
+  right: 50%;
+  left: 50%; /* adjust based on nav height */
+  width: 100px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.05); /* transparent */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 21px;
+  font-family: Fantasy,Copperplate;
+  text-align: center;
+}
