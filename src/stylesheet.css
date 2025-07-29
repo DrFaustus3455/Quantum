@@ -1561,7 +1561,7 @@
   }
 }
 .textbox{
-  background: url(bg.jpg);
+  background-color: #77DD77;
   backdrop-filter: blur(10px);
   height: 300%;
   width: 75%;
